@@ -1,0 +1,13 @@
+{
+  "name": "string",
+  "description": "string",
+  "thumbnailUrl": "string",
+  "uploadDate": "2024-02-18T08:00:00+08:00",
+  "duration": "PT1M30S",
+  "contentUrl": "http://example.com/video123.mp4",
+  "embedUrl": "http://example.com/embed/video123",
+  "interactionCount": {
+    "likeCount": 12345,
+    "dislikeCount": 12345
+  }
+}
